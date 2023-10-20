@@ -1,0 +1,103 @@
+
+body{
+  background-image: url('D:/Web Development/Instagram Clone/images/background2.jpg');
+    background-color: #cccccc;
+    margin : 20px;
+}
+.insta{
+  height: 80px;
+  width: 80px;
+}
+.image1{
+  height: 250px;
+  width: 250px;
+  float: right;
+}
+/* .paris{
+  position: absolute;
+  right: 18%;
+  color: rgb(255, 144, 104);
+} */
+.container-fluid{
+
+  padding: 5% 15%;
+  margin-bottom: 10%
+}
+.nav-insta{
+  font-size: 40px;
+  font-family: 'Pacifico',cursive;
+}
+.log{
+  text-align: center;
+}
+.btn1{
+  margin-left: 3%;
+}
+.third{
+  margin-top: 10%;
+  padding: 5% 15%;
+  margin-bottom:10%;
+}
+.image2
+{
+  height: 250px;
+  width: 250px;
+  float: left;
+  margin-right: 10%;
+}
+.welcome{
+  color: #069A8E;
+}
+.video{
+  margin-top: 10%;
+  padding: 5% 15%;
+  margin-bottom: 10%
+}
+.video1{
+  float: right;
+  margin-left: 10%;
+  height: 300px;
+  width: 200px;
+}
+.explore{
+  color:#B20600;
+}
+.download{
+  text-align: center;
+}
+.btn2{
+  margin-left: 3%;
+}
+.appl{
+  height: 30px;
+  width: 30px;
+  padding-right: 1%;
+}
+.gplay{
+  height: 30px;
+  width: 30px;
+  padding-right: 1%;
+}
+.nav-item2{
+  font-weight: bold;
+}
+#last{
+
+  margin: 15% 15%;
+}
+.circle{
+  height: 15%;
+  weight: 15%;
+}
+.arrow{
+  height: 15%;
+  weight: 15%;
+}
+.arrow2{
+  height: 15%;
+  weight: 15%;
+
+}
+.features{
+  text-align: center;
+}

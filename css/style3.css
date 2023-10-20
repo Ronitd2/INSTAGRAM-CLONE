@@ -1,0 +1,42 @@
+@media (max-width:768px) {
+    body{
+      background-image: none;
+      background-color: aliceblue;
+    }
+    .nav-hid{
+      display: none;
+    }
+    .insta{
+      height: 50px;
+      width: 50px;
+    }
+    .nav-insta{
+      font-size: 20px;
+      font-family: 'Pacifico',cursive;
+      padding-left: 10px;
+    }
+    .image1{
+      height: 150px;
+      width: 150px;
+      float: right;
+      border-radius:5%;
+    }
+    .paristext{
+      font-size: 1.2rem;
+    }
+    .btn3{
+      width: 65px;
+      height: 45px;
+      font-size: 0.9rem;
+      padding-top: 1%;
+    }
+    .navbar-brand {
+      padding-top: 0.3125rem;
+      padding-bottom: 0.3125rem;
+      
+      font-size: 1.25rem;
+      text-decoration: none;
+     
+    }
+  }
+  
